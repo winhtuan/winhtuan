@@ -100,11 +100,8 @@
 </div>
 ---
 
-### 🐍 Fun Fact: Commit Snake
+🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/cuong-sadboi/cuong-sadboi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/winhtuan/winhtuan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+---
