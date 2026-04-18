@@ -21,12 +21,6 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Nguyễn Minh Tuấn
-role: Software Engineer
-location: Vietnam 🇻🇳
-```
-
 - 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Golang**, and **React**
 - 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**
 - 🤝 **Open to:** Collaboration on backend systems, cloud architecture, and full-stack projects
@@ -63,13 +57,23 @@ location: Vietnam 🇻🇳
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-#### Cloud & DevOps
+Cloud & DevOps
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</div>
+
+Tools & Productivity
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
 #### AI Tools
