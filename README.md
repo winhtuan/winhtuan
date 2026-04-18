@@ -1,23 +1,20 @@
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nguy%E1%BB%85n%20Minh%20Tu%E1%BA%A5n&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descSize=18&descAlignY=58&descColor=a0d8ef"/>
-
   <br/>
-
-  <a href="https://github.com/nguyenminhtuan">
+  <a href="https://github.com/winhtuan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:winhtuan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/winhtuan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=nguyenminhtuan&color=2c5364&style=flat-square&label=Profile+Views" />
-
+  <a href="https://www.facebook.com/winhtuan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+<br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=winhtuan&color=2c5364&style=flat-square&label=Profile+Views" />
 </div>
 
 ---
@@ -30,7 +27,7 @@ role: Software Engineer
 location: Vietnam 🇻🇳
 ```
 
-- 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, and **React**
+- 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Golang**, and **React**
 - 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**
 - 🤝 **Open to:** Collaboration on backend systems, cloud architecture, and full-stack projects
 - ⚡ **Fun fact:** I build things that (sometimes) work on the first try
@@ -77,6 +74,7 @@ location: Vietnam 🇻🇳
 #### AI Tools
 <div>
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 </div>
 
 ---
@@ -103,22 +101,11 @@ location: Vietnam 🇻🇳
 
 ---
 
-### 📈 Activity Graph
-
+### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenminhtuan&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github.com/cuong-sadboi/cuong-sadboi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
----
-
-### 🏆 Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenminhtuan&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
