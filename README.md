@@ -98,10 +98,9 @@
     <img src="https://streak-stats.demolab.com?user=winhtuan&theme=react&hide_border=true&border_radius=10&background=0D1117&ring=2c5364&fire=a0d8ef&currStreakLabel=a0d8ef" />
   </a>
 </div>
----
 
-🐍 Contribution Snake
+### 🐍 Contribution Snake
 <div align="center">
   <img src="https://github.com/winhtuan/winhtuan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
----
+
