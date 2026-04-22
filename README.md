@@ -6,9 +6,9 @@
 
 ### About Me
 
-- **Current Focus:** Crafting applications with **.NET Core**, **Golang**, and **React**
-- **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**
-- **Open to:** Collaboration on backend systems, cloud architecture, and full-stack projects
+- **Current Focus:** Building full-stack apps with **.NET Core**, **Golang**, and **React**
+- **Learning Next:** Cloud Solutions **Cloud Solutions (AWS/GCP)** and **DevOps** practices  
+- **Open to:** Backend, cloud architecture, and full-stack collaboration
 - **Fun fact:** I build things that (sometimes) work on the first try
 
 ---
