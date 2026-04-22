@@ -1,34 +1,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nguy%E1%BB%85n%20Minh%20Tu%E1%BA%A5n&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descSize=18&descAlignY=58&descColor=a0d8ef"/>
-  <br/>
-  <a href="https://github.com/winhtuan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:winhtuan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/winhtuan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/winhtuan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-<br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=winhtuan&color=2c5364&style=flat-square&label=Profile+Views" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Golang**, and **React**
-- 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**
-- 🤝 **Open to:** Collaboration on backend systems, cloud architecture, and full-stack projects
-- ⚡ **Fun fact:** I build things that (sometimes) work on the first try
+- **Current Focus:** Crafting applications with **.NET Core**, **Golang**, and **React**
+- **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**
+- **Open to:** Collaboration on backend systems, cloud architecture, and full-stack projects
+- **Fun fact:** I build things that (sometimes) work on the first try
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 #### Languages
 <div>
@@ -84,7 +69,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -101,7 +86,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winhtuan/winhtuan/output/github-snake-dark.svg" />
@@ -113,4 +98,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 </div>
-
