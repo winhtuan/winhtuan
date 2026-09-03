@@ -75,32 +75,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winhtuan&show_icons=true&theme=react&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winhtuan&layout=compact&theme=react&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-  <br/>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=winhtuan&theme=react&hide_border=true&border_radius=10&background=0D1117&ring=2c5364&fire=a0d8ef&currStreakLabel=a0d8ef" />
-  </a>
-</div>
-
----
-
-### Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winhtuan/winhtuan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winhtuan/winhtuan/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/winhtuan/winhtuan/output/github-snake.svg" />
-  </picture>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 </div>
